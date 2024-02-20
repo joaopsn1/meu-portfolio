@@ -94,16 +94,12 @@ ul {
     padding: 05px 43px;
 }
 
-.fundo {
-    padding: 0px 0px 10px 0px;
-}
-
 footer {
     padding: 10px 10px;
     background-color: #49535c;
 }
 
-a:hover {
+footer > nav > a:hover {
     text-decoration: underline;
     color: #1f2325;
 }
